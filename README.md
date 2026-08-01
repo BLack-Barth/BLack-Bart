@@ -2,7 +2,6 @@
 
 > **Specialization:** Autonomous Systems, AI & Cybersecurity  
 > **Current Focus:** Low-Level Logic in C & Python Automation  
-> **Goal (By October):** Build 10 Production-Ready Projects from Scratch  
 
 ---
 
