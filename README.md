@@ -1,4 +1,4 @@
-# 🏴‍☠️ Welcome to BLeck-Barth's Lab!
+# 🏴‍☠️ Welcome to BLack-Bart's Lab!
 
 > **Specialization:** Autonomous Systems, AI & Cybersecurity  
 > **Current Focus:** Low-Level Logic in C & Python Automation  
