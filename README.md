@@ -8,7 +8,7 @@
 ## 🚀 C & Systems Programming Roadmap
 
 ### 🟢 Level 1: Foundations & Logic (Current Focus)
-- [x] 🧮 [Calculator] (https://github.com/BLack-Barth/calculator-c)
+- [x] 🧮 [Calculator](https://github.com/BLack-Barth/calculator-c)
 - [ ] 📝 To-Do List (CLI)
 - [ ] 🎓 Student Management System
 - [ ] 📇 Contact Manager
