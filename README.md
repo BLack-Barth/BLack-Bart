@@ -9,7 +9,7 @@
 
 ### 🟢 Level 1: Foundations & Logic (Current Focus)
 - [x] 🧮 [Calculator](https://github.com/BLack-Barth/calculator-c)
-- [ ] 📝 To-Do List (CLI)
+- [x] 📝 [To-Do List (CLI)](https://github.com/BLack-Barth/To-Do-List-c.git)
 - [ ] 🎓 Student Management System
 - [ ] 📇 Contact Manager
 - [ ] 📚 Library Management System
