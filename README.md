@@ -53,10 +53,20 @@
 
 ---
 
+### 🟣 Level 6: Operating Systems
+- [ ] 💻 Mini Shell (Advanced)
+- [ ] 🚀 Custom Bootloader
+- [ ] ⚙️ Process Scheduler Simulation
+- [ ] 🧠 Memory Manager
+- [ ] 🛠️ Mini Kernel Experiments
+
+---
+
 ### 🟤 Level 7: Web Bug Bounty Tools
 - [ ] 🌐 HTTP Request Parser
 - [ ] 🛡️ Burp-like Intercepting Proxy
 - [ ] 📁 Directory Fuzzer & Subdomain Enumerator
+- [ ] 🍪 HTTP Header & Cookie Analyzer
 
 ---
 *“Building tools, not just solving exercises.”* ⚡
